@@ -29,9 +29,9 @@ class FileUploadPlusAsset extends AssetBundle
         'js/jquery.fileupload-validate.js'
     ];
     public $depends = [
-        'dosamigos\fileupload\FileUploadAsset',
-        'dosamigos\fileupload\BlueimpLoadImageAsset',
-        'dosamigos\fileupload\BlueimpCanvasToBlobAsset',
+        'toxufe\fileupload\FileUploadAsset',
+        'toxufe\fileupload\BlueimpLoadImageAsset',
+        'toxufe\fileupload\BlueimpCanvasToBlobAsset',
     ];
 
 }

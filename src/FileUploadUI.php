@@ -6,7 +6,7 @@
  */
 
 namespace toxufe\fileupload;
-use dosamigos\gallery\GalleryAsset;
+use toxufe\gallery\GalleryAsset;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Json;
 

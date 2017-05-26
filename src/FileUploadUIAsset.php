@@ -35,8 +35,8 @@ class FileUploadUIAsset extends AssetBundle
     public $depends = [
         'yii\web\JqueryAsset',
         'yii\bootstrap\BootstrapPluginAsset',
-        'dosamigos\fileupload\BlueimpLoadImageAsset',
-        'dosamigos\fileupload\BlueimpCanvasToBlobAsset',
-        'dosamigos\fileupload\BlueimpTmplAsset'
+        'toxufe\fileupload\BlueimpLoadImageAsset',
+        'toxufe\fileupload\BlueimpCanvasToBlobAsset',
+        'toxufe\fileupload\BlueimpTmplAsset'
     ];
 }
